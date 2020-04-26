@@ -1,0 +1,26 @@
+{
+  "name": "notetaker-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miadugas/NoteTaker-Express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miadugas/NoteTaker-Express/issues"
+  },
+  "homepage": "https://github.com/miadugas/NoteTaker-Express#readme",
+  "keywords": [],
+  "dependencies": {
+    "db": "^1.1.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
